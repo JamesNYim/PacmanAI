@@ -8,7 +8,10 @@ The work that I have done is in ``pacman/pacai/student``
 ## Getting Started
 ### Dependencies
 * Python >= 3.5
-* The dependencies are writted in the **requirements.txt** and can be installed using:  ``pip3 install --user -r requirements.txt``
+* The dependencies are writted in the **requirements.txt** and can be installed using: 
+```md 
+pip3 install --user -r requirements.txt
+```
 
 ### How To Run
 All the executables and binaries for the project are located in `pacai.bin` You can run these executables from the root directory (where this README.md is located) using the command:
