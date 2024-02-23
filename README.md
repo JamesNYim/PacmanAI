@@ -13,5 +13,5 @@ The work that I have done is in ``pacman/pacai/student``
 ### How To Run
 All the executables and binaries for the project are located in `pacai.bin` You can run these executables from the root directory (where this README.md is located) using the command:
 
-`python3 -m pacai.bin.pacman`
+```python3 -m pacai.bin.pacman```
 
